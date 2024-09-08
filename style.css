@@ -117,6 +117,14 @@ body {
     box-shadow: 0px 10px 40px -12px #00ff8052;
 }
 
+.remenber {
+    color: #fff;
+    text-decoration: none;
+}
+
+.remenber:hover {
+    text-decoration: underline;
+}
 @media only screen and (max-width: 950px){
     .card-login{
         width: 85%;
